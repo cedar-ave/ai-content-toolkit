@@ -1,0 +1,19 @@
+# Secrets and local auth state
+.env
+mcp/credentials.json
+mcp/token.json
+
+# Skill scratch output (generated drafts, not source)
+skills/*/outputs/
+skills/*/sources-to-ingest/
+skills/*/knowledge-stacks/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,22 @@
+{
+  "name": "ai-content-toolkit",
+  "displayName": "AI Content Toolkit",
+  "version": "1.0.0",
+  "description": "Skills and MCP servers for documentation teams: draft Diataxis-structured Help Center articles from a cataloged knowledge base, review drafts for AI-agent readability, enforce vocabulary and style guides, draft audience-specific release notes, and manage content end-to-end across Google Docs, Paligo, and Zendesk Guide.",
+  "author": {
+    "name": "Marla Sowards"
+  },
+  "homepage": "https://github.com/cedar-ave/ai-content-toolkit",
+  "repository": "https://github.com/cedar-ave/ai-content-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "technical-writing",
+    "content-ops",
+    "diataxis",
+    "zendesk",
+    "paligo",
+    "google-docs",
+    "mcp"
+  ]
+}

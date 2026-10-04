@@ -1,0 +1,12 @@
+# Dependencies for all four MCP servers under mcp/.
+# Install once from the repo root: pip3 install -r requirements.txt
+
+mcp>=1.2.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# gdrive_mcp.py
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+pypdf>=4.0.0

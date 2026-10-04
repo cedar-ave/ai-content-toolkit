@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "gdrive": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp/gdrive_mcp.py"]
+    },
+    "paligo": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp/paligo_mcp.py"]
+    },
+    "zendesk-guide": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp/zendesk_guide_mcp.py"]
+    },
+    "zendesk-tickets": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp/zendesk_tickets_mcp.py"]
+    }
+  }
+}
